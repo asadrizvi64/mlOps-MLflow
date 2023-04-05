@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlruns/320261507592797574/dc90c21f07504ee2a7ae34c2ea164665/artifacts
+end_time: 1680685537061
+entry_point_name: ''
+experiment_id: '320261507592797574'
+lifecycle_stage: active
+run_id: dc90c21f07504ee2a7ae34c2ea164665
+run_name: melodic-conch-38
+run_uuid: dc90c21f07504ee2a7ae34c2ea164665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680685532012
+status: 3
+tags: []
+user_id: hp
